@@ -3,7 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "bd8dead23ab7074a73f7f6022f337af7",
+  "assets/AssetManifest.json": "cfa1a2b5b916f5d9fb3924b8034c06a3",
+"assets/assets/icons/apple%2520(2).png": "68d01f82b9c2cb46682ec3b504f74468",
+"assets/assets/icons/email.png": "222b87413506d83c93efef1e6caeedcf",
+"assets/assets/icons/facebook.jpg": "a631b3d1e15a0caeefc4d1629c26fa5e",
+"assets/assets/icons/google.png": "90edbdc555506f2b438bafa90067bfe4",
 "assets/assets/images/hoodi.webp": "f93afbe63df7a246fc3d08b2012ffb3c",
 "assets/assets/images/hoodi1.jpg": "de16741bc7acf1378e0aa57543d5a3ff",
 "assets/assets/images/hoodi2.jpg": "94abb5870300304cf06a14b860233044",
@@ -29,9 +33,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "1a70d4ff729f30faeb54f1a9fcd4b784",
-"/": "1a70d4ff729f30faeb54f1a9fcd4b784",
-"main.dart.js": "92ab83648f0f5093b6a1d42161e02676",
+"index.html": "ff6f6da365d55f27066a9eedf56c384a",
+"/": "ff6f6da365d55f27066a9eedf56c384a",
+"main.dart.js": "c1acc51766e69539c3978ee9f99fbf13",
 "manifest.json": "c4d645d51731401744e0745208cfbe7c",
 "version.json": "e141bde630186722b4ea5963dec64bb0"
 };
