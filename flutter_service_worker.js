@@ -12,7 +12,7 @@ const RESOURCES = {
 "assets/assets/images/hoodi1.jpg": "de16741bc7acf1378e0aa57543d5a3ff",
 "assets/assets/images/hoodi2.jpg": "94abb5870300304cf06a14b860233044",
 "assets/assets/images/profile.png": "2f97d7b61dc32a9ea8a3e5bc3de88fd7",
-"assets/assets/logos/mero.png": "46c09b9f1a401fa67096680725fa330a",
+"assets/assets/logos/mero.png": "dec1065f7719cbcb79b69a1bf36a7be7",
 "assets/FontManifest.json": "03517a6684061a94f8198eaf8dfbd717",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/NOTICES": "e3cb3461032356083fecb7009cd16e5e",
@@ -33,9 +33,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "ff6f6da365d55f27066a9eedf56c384a",
-"/": "ff6f6da365d55f27066a9eedf56c384a",
-"main.dart.js": "c1acc51766e69539c3978ee9f99fbf13",
+"index.html": "aa55c27fc181dbca4b925fbff88cab33",
+"/": "aa55c27fc181dbca4b925fbff88cab33",
+"main.dart.js": "3d67466e2a8f179991d29e917f087fe7",
 "manifest.json": "c4d645d51731401744e0745208cfbe7c",
 "version.json": "e141bde630186722b4ea5963dec64bb0"
 };
